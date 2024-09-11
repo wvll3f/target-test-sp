@@ -1,0 +1,11 @@
+{
+  "name": "target-test-sp",
+  "version": "1.0.0",
+  "description": "testes para vaga de estagio da target sistemas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wvll3f",
+  "license": "ISC"
+}
